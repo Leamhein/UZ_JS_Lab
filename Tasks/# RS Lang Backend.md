@@ -62,3 +62,7 @@
  - [TypeScript in NodeJS part 1 (RU)](https://www.youtube.com/watch?v=I_aTbZcH8Do&list=PLzLiprpVuH8eLZd665rBTYaLRw7TONz7E&index=9)
  - [TypeScript in NodeJS part 2 (RU)](https://www.youtube.com/watch?v=CegrbRXGw20&list=PLzLiprpVuH8eLZd665rBTYaLRw7TONz7E&index=10)
  - [MongoDB, mongoose (RU)](https://www.youtube.com/watch?v=Iyuf0GBgETs)
+ - [Authentication. Security + CORS (RU)](https://www.youtube.com/watch?v=K0K4bCQAfUM)
+ - [NodeJS debugging in VS Code (EN)](https://www.youtube.com/watch?v=2oFKNL7vYV8)
+ - [NodeJS debugging in WebStorm (RU)](https://www.youtube.com/watch?v=5-YfjWaLj2w&t=301s)
+ - [Complex guide for NodeJS, Express and MongoDB (RU)](https://metanit.com/web/nodejs/)
