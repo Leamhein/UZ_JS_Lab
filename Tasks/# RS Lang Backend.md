@@ -1,8 +1,8 @@
 # RS Lang Backend
 
-| Deadline         |
-| ---------------- |
-| --.--.---- --:-- |
+| Start        | Deadline         |
+| ------------ | ---------------- |
+| 23.06.2021   | 13.07.2021 23:59 |
 
 ## Details
 1. Backend should realize such API [RS Lang Backend API Doc](https://react-learnwords-example.herokuapp.com/doc/#):
@@ -30,7 +30,7 @@
    ------------------------------------------------------
    - User statistics endpoints:
      - ```GET /users/{id}/settings``` - Get user settings
-     - ```PUT /users/{id}/settings``` - Upsert settings
+     - ```PUT /users/{id}/settings``` - Upset settings
    ------------------------------------------------------
    - Sign In endpoint:
      - ```POST /signin``` - Sign in
