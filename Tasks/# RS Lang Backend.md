@@ -24,9 +24,9 @@
      - ```PUT /users/{id}/words/{wordId}``` - Update a user word
      - ```DELETE /users/{id}/words/{wordId}``` - Delete user word
    ------------------------------------------------------
-   - User aggregated words endpoints:
+   <s>- User aggregated words endpoints:
      - ```GET /users/{id}/aggregatedWords``` - Get all user aggregated words
-     - ```GET /users/{id}/aggregatedWords/{wordId}``` - Get a user aggregated word by word id
+     - ```GET /users/{id}/aggregatedWords/{wordId}``` - Get a user aggregated word by word id</s>
    ------------------------------------------------------
    - User statistics endpoints:
      - ```GET /users/{id}/settings``` - Get user settings
