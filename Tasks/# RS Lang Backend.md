@@ -44,7 +44,7 @@
 1. Express allowed to use
 
 ## Criteria for evaluation
-**Max points: 550 **
+**Max points: 490 **
 
 1. ```POST /signin```, ```GET /words```, ```POST /users```, ```GET /users/{id}``` endpoint is must have.
 2. For each correctly working endpoint, 30 points are awarded.
