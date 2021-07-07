@@ -29,6 +29,10 @@
      - ```GET /users/{id}/aggregatedWords/{wordId}``` - Get a user aggregated word by word id</s>
    ------------------------------------------------------
    - User statistics endpoints:
+     - ```GET /users/{id}/statistics``` - Get user statistics
+     - ```PUT /users/{id}/statistics``` - Upset statistics
+   ------------------------------------------------------
+   - User settings endpoints:
      - ```GET /users/{id}/settings``` - Get user settings
      - ```PUT /users/{id}/settings``` - Upset settings
    ------------------------------------------------------
