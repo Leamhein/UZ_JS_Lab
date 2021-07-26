@@ -39,7 +39,7 @@
    - Sign In endpoint:
      - ```POST /signin``` - Sign in
 
-2. The JVT token received upon successful login must be used with each request to endpoints requiring authorization. 
+2. The JWT token received upon successful login must be used with each request to endpoints requiring authorization. 
    - This token get by POST request to `/signin` endpoint.
    - Tokens have a limited lifetime (4 hours for example).
 3. The system supports the differentiation of data by users. To do this, you need to use the POST endpoint at `/users`. In the request, you need to pass a JSON object that contains the user's email address and password. The password must be at least 8 characters long.
